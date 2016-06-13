@@ -1,9 +1,9 @@
 #### Data sets in .zip format 
 
 To download from within R use : 
-<br>
-**system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/mnist.zip")** or
-<br>
+<br><br>
+**system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/mnist.zip")** ,
+<br><br>
 **system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/cifar_10.zip")** 
 <br>
 <br>
