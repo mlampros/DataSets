@@ -1,6 +1,6 @@
 #### Data sets in .zip format 
 
-To download from within R use : 
+To download in a linux os from within R use : 
 <br><br>
 **system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/mnist.zip")** ,
 <br><br>
