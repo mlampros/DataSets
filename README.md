@@ -25,6 +25,8 @@ system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/wili-201
 <br><br>
 system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/declaration_human_rights.zip")
 <br><br>
+system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/lid.176.zip")
+<br><br>
 
 In any other case use the **Clone or download button** in this repository page to download the dataset(s).
 
@@ -40,6 +42,7 @@ In any other case use the **Clone or download button** in this repository page t
 |fastText data           | -                | -                        | The .zip file includes files / folders for the fastText R package |    
 |wili-2018               | -                | -                        | WiLI-2018, the Wikipedia language identification benchmark dataset, contains 235000 paragraphs of 235 languages. The dataset is balanced and a train-test split is provided. Download weblink: https://zenodo.org/record/841984#.YHwCvOpRUV0  |
 |Declaration of Human rights           | -                | -                        | The .zip file includes the decalaration of human rights (https://www.un.org/en/about-us/universal-declaration-of-human-rights) in Chinese, English, Spanish (first 3 by number of speakers worldwide, https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers) | 
+|fastText language identification           | -                | -                        | The .zip file includes a pre-trained model for language identification (https://fasttext.cc/docs/en/language-identification.html) |  
 
 <br>
 
