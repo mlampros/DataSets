@@ -21,6 +21,8 @@ system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/BSR_bsds
 <br><br>
 system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/fastText_data.zip")
 <br><br>
+system("wget https://raw.githubusercontent.com/mlampros/DataSets/master/wili-2018.zip")
+<br><br>
 
 In any other case use the **Clone or download button** in this repository page to download the dataset(s).
 
@@ -33,7 +35,8 @@ In any other case use the **Clone or download button** in this repository page t
 |africa soil data train  |1157              |3600                      | https://www.kaggle.com/c/afsis-soil-properties/data          |
 |sift_10k                |10000             |128                       | https://github.com/searchivarius/nmslib/blob/master/sample_data/sift_10k.txt |
 |Berkeley Segmentation Data Set and Benchmarks 500 (BSDS500) | 500 images (train, test, validation|-  | https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
-|fastText data           | -                | -                        | The .zip file includes files / folders for the fastText R package |     
+|fastText data           | -                | -                        | The .zip file includes files / folders for the fastText R package |    
+|wili-2018               | -                | -                        | WiLI-2018, the Wikipedia language identification benchmark dataset, contains 235000 paragraphs of 235 languages. The dataset is balanced and a train-test split is provided. Download weblink: https://zenodo.org/record/841984#.YHwCvOpRUV0  |     
 
 <br>
 
